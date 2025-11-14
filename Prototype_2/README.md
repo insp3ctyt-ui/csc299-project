@@ -152,6 +152,16 @@ export OPENAI_API_KEY='sk-YourKeyHere...'
 uv run pkms ai summarize 2
 ```
 
+## Testing
+
+This prototype includes a `pytest` test suite. The tests run against a temporary, in-memory database and do not affect your `project.db` file. The test suite does not use the REPL and tests the underlying commands directly.
+
+**To run the tests:**
+
+```bash
+uv run python -m pytest
+```
+
 **Example Output:**
 
 ```
