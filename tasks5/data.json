@@ -1,0 +1,21 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Test task",
+      "description": "smoke test",
+      "done": false,
+      "created_at": "2025-11-16T01:36:43.451119Z",
+      "updated_at": "2025-11-16T01:36:43.451546Z"
+    },
+    {
+      "id": 3,
+      "title": "Buy milk",
+      "description": "",
+      "done": true,
+      "created_at": "2025-11-16T01:45:22.269409Z",
+      "updated_at": "2025-11-16T01:45:48.182636Z"
+    }
+  ],
+  "next_id": 5
+}
