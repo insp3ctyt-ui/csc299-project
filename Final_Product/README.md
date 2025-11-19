@@ -13,7 +13,7 @@ This project is managed using `uv`.
 
 1.  **Navigate to this directory:**
     ```bash
-    cd Prototype_4
+    cd Final_Product
     ```
 
 2.  **Install dependencies:**
